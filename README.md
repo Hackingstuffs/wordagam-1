@@ -1,7 +1,8 @@
 # Wordagam
+<h1> Developed By Sonam Raja </h1>
+<h2> @Under Hackingstffs</h2>
 
-
-A fun & interactive word game. Check out the screenshots and the gameplay video.
+A fun & interactive word game. Check out the screenshots and the gameplay video .
 
 ## Download & Play
 
